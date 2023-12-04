@@ -17,12 +17,22 @@ Não se esqueça dos adicionais!
 _Mix recheio - dois sabores por apenas R$15,00!_
 
 • Morango = 3,00
+
 • Uva verde = 2,50
+
 • Uva tradicional = 3,00
+
 • M&M = 2,50
+
 • Chantilly = 1,50
+
 • Granulado colorido = 1,50
+
 • Granulado de chocolate = 1,50
+
 • Coco ralado = 2,50
+
 • Chocolate ralado = 2,00
+
+
 
