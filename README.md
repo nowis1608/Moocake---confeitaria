@@ -13,7 +13,7 @@ Os melhores sabores de recheio estão aqui, por apenas R$10,00!
 
 Não se esqueça dos adicionais!
 
-_Mix recheio - dois sabores por apenas R$15,00!_
+_**Mix recheio** - dois sabores por apenas R$15,00!_
 
 • Morango = 3,00
 
