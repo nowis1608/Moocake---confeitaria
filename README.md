@@ -2,8 +2,6 @@
 
 Aqui na Mooncakes trazemos opções de doces caseiros em que todos podem pagar para aproveitar um pouco da nossa especialidade: relembrar as sensações açucaradas da infância! Venha e aproveite nossas ofertas:
 
-![image](https://github.com/nowis1608/Moocake---confeitaria/assets/146089443/4338e71b-5324-496a-9d26-6c43af6595a3)
-
 ## Bolos de pote:
 Os melhores sabores de recheio estão aqui, por apenas R$10,00!
 
@@ -49,4 +47,8 @@ Talvez um doce mais leve pra servir de sobremesa? Nós temos!
 - Chocolate meio amargo com avelã;
 - Chocolate branco com avelã;
 
+##FALE CONOSCO:
+**WhatsApp:** _+55 91 9176-7366_
+**instagram:** *@mooncakes_pb(https://instagram.com/mooncakes_bp?igshid=MzMyNGUyNmU2YQ==)*
+**WhatsApp Comunidade(https://chat.whatsapp.com/Hf3XHLKnTU21wj6p55wTfm)**
 
