@@ -2,10 +2,11 @@
 
 Aqui na Mooncakes trazemos opções de doces caseiros em que todos podem pagar para aproveitar um pouco da nossa especialidade: relembrar as sensações açucaradas da infância! Venha e aproveite nossas ofertas:
 
-![image](https://github.com/nowis1608/Moocake---confeitaria/assets/146089443/dd5d2fc5-a46c-479b-981b-8a98e6034d1d)
+![image](https://github.com/nowis1608/Moocake---confeitaria/assets/146089443/4338e71b-5324-496a-9d26-6c43af6595a3)
 
 ## Bolos de pote:
 Os melhores sabores de recheio estão aqui, por apenas R$10,00!
+![image](https://github.com/nowis1608/Moocake---confeitaria/assets/146089443/dd5d2fc5-a46c-479b-981b-8a98e6034d1d)
 
 - Brigadeiro;
 - Beijinho;
